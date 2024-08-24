@@ -8,7 +8,7 @@ Welcome to the WaveSB documentation!
 3. [Usage](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/usage.md)
 
 ## Group: Custom Scripts Engine
-1. [Structure](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/functions.md)
+1. [Structure](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/custom-scripts-engine/structure.md)
 2. [Client Functions](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/settings.md)
 3. [Prebuilt Libraries](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/models.md)
 
