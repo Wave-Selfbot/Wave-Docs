@@ -4,8 +4,8 @@ Welcome to the WaveSB documentation!
 
 ## Group: Setup Wave
 1. [Wave Account](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/account.md)
-2. [Installation](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/settings.md)
-3. [Usage](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/models.md)
+2. [Installation](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/installation.md)
+3. [Usage](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/usage.md
 
 ## Group: Custom Scripts Engine
 1. [Structure](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/functions.md)
