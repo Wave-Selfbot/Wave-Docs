@@ -1,4 +1,4 @@
-# <img src="images/wavesbicon2.ico" alt="Logo" width="35" height="35"> WaveSB Documentation
+# <img src="../images/wavesbicon2.ico" alt="Logo" width="35" height="35"> WaveSB Documentation
 
 ## Structure For Registering Commands
 
