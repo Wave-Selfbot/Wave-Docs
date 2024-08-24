@@ -1,4 +1,4 @@
-# WaveSB Documentation
+# <img src="images/wavesbicon2.ico" alt="Logo" width="50" height="50"> WaveSB Documentation
 
 Welcome to the WaveSB documentation!
 
@@ -11,6 +11,3 @@ Welcome to the WaveSB documentation!
 1. [Structure](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/functions.md)
 2. [Client Functions](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/settings.md)
 3. [Prebuilt Libraries](https://github.com/Wis-Selfbot/Wis-Docs/blob/main/models.md)
-
-
-
