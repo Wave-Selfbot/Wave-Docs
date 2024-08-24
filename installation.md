@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install the WaveSB selfbot, follow these steps:
+To install the Wave Selfbot, follow these steps:
 
 1. **Download the selfbot**:
    - Visit [waveselfbot.xyz](https://waveselfbot.xyz) and click the "Download" button, or you can [click this link](https://api.celestial.cat/wave/Files/Wave.exe) to download the executable directly.
