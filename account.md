@@ -21,7 +21,7 @@ After purchasing your license key, you need to register your account by followin
    - Locate the "Wave Helper" bot in the server and go into it's DMs.
 
 3. **Run the HWID Command**:
-   - In the DM with the "Wave Helper" bot, type `/hwid` and run the command. This will copy your computer's HWID to your clipboard.
+   - In the DM with the "Wave Helper" bot, type `/hwid` and run the command. This will send you an executable that will copy your computer's HWID to your clipboard.
 
 4. **Register Your Account**:
    - In the same DM with the "Wave Helper" bot, type `/register username:<desired_username> password:<your_password> license_key:<your_license_key> hwid:<your_copied_hwid>`.
