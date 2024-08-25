@@ -9,8 +9,8 @@ Welcome to the WaveSB documentation!
 
 ## Group: Custom Scripts Engine
 1. [Structure](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/custom-scripts-engine/structure.md) <!-- https://github.com/Wave-Selfbot/Wave-Docs/blob/main/custom-scripts-engine/structure -->
-2. [Client Functions](http://shutup.com/)
-3. [Prebuilt Libraries](http://shutup.com/)
+2. [Client Functions](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/custom-scripts-engine/structure.md)
+3. [Prebuilt Libraries](https://github.com/Wave-Selfbot/Wave-Docs/blob/main/custom-scripts-engine/structure.md)
 
 
 <br>
